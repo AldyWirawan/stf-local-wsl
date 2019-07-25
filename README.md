@@ -15,7 +15,7 @@ The rest of the STF requirements will be installed in WSL
 
 # Steps
 
-## On Windows using powershell
+## On Windows
 
 ### RethinkDB
 This one is fairly straightforward
