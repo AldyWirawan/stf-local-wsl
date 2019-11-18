@@ -33,7 +33,7 @@ Install adb in your windows, easiest way is by installing android studio. Make s
 run these command to install required package:
 ~~~
 sudo apt-get update
-sudo apt-get install nodejs npm graphicmagick yasm libtool pkg-config build-essential autoconf automake unzip g++ protobuf-compiler
+sudo apt-get install nodejs npm graphicsmagick yasm libtool pkg-config build-essential autoconf automake unzip g++ protobuf-compiler
 ~~~
 
 ### ZeroMQ
